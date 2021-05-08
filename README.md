@@ -1,1 +1,3 @@
 "# Lunch-with-Me-Software-Project" 
+
+"Lunch with Me" is both web and mobile based application that recommends dining partners based on the location,dining hours as well as the personal preferences of the user.This system provides the facility to connect with the people recommended based upon the above criteria,along with the real-time chat facility.This project is most suitable to connect employees in a large scale companies over the dining time and was implemented by using Angular,React Native,Node js as well as Mongo DB.This was carried out as the Level 2 Software project and was mentored by Virtusa (Pvt) Ltd.
